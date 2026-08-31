@@ -9,7 +9,7 @@
 // nesimo (5) -> nesimo(4) *  3 -> 4 * 3 = 1162261467
 // nesimo (6) -> nesimo(5) *  3 -> 5 * 3 = -808182895
 
-int soam_digitos(int n){
+int sequencia(int n){
     // caso base
     if (n == 0) return 1;
     
